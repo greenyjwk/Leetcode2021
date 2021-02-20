@@ -1,4 +1,4 @@
-package com.company;
+package Integer;
 
 import java.sql.Time;
 import java.util.HashMap;
